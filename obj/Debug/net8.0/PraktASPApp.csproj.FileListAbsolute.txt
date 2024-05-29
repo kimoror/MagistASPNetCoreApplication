@@ -1,0 +1,139 @@
+C:\Users\burnf\source\repos\Subject-corporate-systems\Corp4Sem4\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\burnf\source\repos\Subject-corporate-systems\Corp4Sem4\bin\Debug\net8.0\appsettings.json
+C:\Users\burnf\source\repos\Subject-corporate-systems\Corp4Sem4\bin\Debug\net8.0\PraktASPApp.exe
+C:\Users\burnf\source\repos\Subject-corporate-systems\Corp4Sem4\bin\Debug\net8.0\PraktASPApp.deps.json
+C:\Users\burnf\source\repos\Subject-corporate-systems\Corp4Sem4\bin\Debug\net8.0\PraktASPApp.runtimeconfig.json
+C:\Users\burnf\source\repos\Subject-corporate-systems\Corp4Sem4\bin\Debug\net8.0\PraktASPApp.dll
+C:\Users\burnf\source\repos\Subject-corporate-systems\Corp4Sem4\bin\Debug\net8.0\PraktASPApp.pdb
+C:\Users\burnf\source\repos\Subject-corporate-systems\Corp4Sem4\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\burnf\source\repos\Subject-corporate-systems\Corp4Sem4\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\burnf\source\repos\Subject-corporate-systems\Corp4Sem4\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\burnf\source\repos\Subject-corporate-systems\Corp4Sem4\bin\Debug\net8.0\Npgsql.dll
+C:\Users\burnf\source\repos\Subject-corporate-systems\Corp4Sem4\bin\Debug\net8.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\burnf\source\repos\Subject-corporate-systems\Corp4Sem4\obj\Debug\net8.0\PraktASPApp.csproj.AssemblyReference.cache
+C:\Users\burnf\source\repos\Subject-corporate-systems\Corp4Sem4\obj\Debug\net8.0\PraktASPApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\burnf\source\repos\Subject-corporate-systems\Corp4Sem4\obj\Debug\net8.0\PraktASPApp.AssemblyInfoInputs.cache
+C:\Users\burnf\source\repos\Subject-corporate-systems\Corp4Sem4\obj\Debug\net8.0\PraktASPApp.AssemblyInfo.cs
+C:\Users\burnf\source\repos\Subject-corporate-systems\Corp4Sem4\obj\Debug\net8.0\PraktASPApp.csproj.CoreCompileInputs.cache
+C:\Users\burnf\source\repos\Subject-corporate-systems\Corp4Sem4\obj\Debug\net8.0\PraktASPApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\burnf\source\repos\Subject-corporate-systems\Corp4Sem4\obj\Debug\net8.0\PraktASPApp.RazorAssemblyInfo.cache
+C:\Users\burnf\source\repos\Subject-corporate-systems\Corp4Sem4\obj\Debug\net8.0\PraktASPApp.RazorAssemblyInfo.cs
+C:\Users\burnf\source\repos\Subject-corporate-systems\Corp4Sem4\obj\Debug\net8.0\PraktASPApp.sourcelink.json
+C:\Users\burnf\source\repos\Subject-corporate-systems\Corp4Sem4\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\burnf\source\repos\Subject-corporate-systems\Corp4Sem4\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\burnf\source\repos\Subject-corporate-systems\Corp4Sem4\obj\Debug\net8.0\staticwebassets\msbuild.PraktASPApp.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\burnf\source\repos\Subject-corporate-systems\Corp4Sem4\obj\Debug\net8.0\staticwebassets\msbuild.build.PraktASPApp.props
+C:\Users\burnf\source\repos\Subject-corporate-systems\Corp4Sem4\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.PraktASPApp.props
+C:\Users\burnf\source\repos\Subject-corporate-systems\Corp4Sem4\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.PraktASPApp.props
+C:\Users\burnf\source\repos\Subject-corporate-systems\Corp4Sem4\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\burnf\source\repos\Subject-corporate-systems\Corp4Sem4\obj\Debug\net8.0\scopedcss\bundle\PraktASPApp.styles.css
+C:\Users\burnf\source\repos\Subject-corporate-systems\Corp4Sem4\obj\Debug\net8.0\PraktASP.7BD7A2A0.Up2Date
+C:\Users\burnf\source\repos\Subject-corporate-systems\Corp4Sem4\obj\Debug\net8.0\PraktASPApp.dll
+C:\Users\burnf\source\repos\Subject-corporate-systems\Corp4Sem4\obj\Debug\net8.0\refint\PraktASPApp.dll
+C:\Users\burnf\source\repos\Subject-corporate-systems\Corp4Sem4\obj\Debug\net8.0\PraktASPApp.pdb
+C:\Users\burnf\source\repos\Subject-corporate-systems\Corp4Sem4\obj\Debug\net8.0\PraktASPApp.genruntimeconfig.cache
+C:\Users\burnf\source\repos\Subject-corporate-systems\Corp4Sem4\obj\Debug\net8.0\ref\PraktASPApp.dll
+Z:\Users\danila\DevProjects\VisualStudioProjects\Magistracy\2-nd semestr\MagistASPNetCoreApplication\bin\Debug\net8.0\appsettings.Development.json
+Z:\Users\danila\DevProjects\VisualStudioProjects\Magistracy\2-nd semestr\MagistASPNetCoreApplication\bin\Debug\net8.0\appsettings.json
+Z:\Users\danila\DevProjects\VisualStudioProjects\Magistracy\2-nd semestr\MagistASPNetCoreApplication\bin\Debug\net8.0\libman.json
+Z:\Users\danila\DevProjects\VisualStudioProjects\Magistracy\2-nd semestr\MagistASPNetCoreApplication\bin\Debug\net8.0\PraktASPApp.staticwebassets.runtime.json
+Z:\Users\danila\DevProjects\VisualStudioProjects\Magistracy\2-nd semestr\MagistASPNetCoreApplication\bin\Debug\net8.0\PraktASPApp.exe
+Z:\Users\danila\DevProjects\VisualStudioProjects\Magistracy\2-nd semestr\MagistASPNetCoreApplication\bin\Debug\net8.0\PraktASPApp.deps.json
+Z:\Users\danila\DevProjects\VisualStudioProjects\Magistracy\2-nd semestr\MagistASPNetCoreApplication\bin\Debug\net8.0\PraktASPApp.runtimeconfig.json
+Z:\Users\danila\DevProjects\VisualStudioProjects\Magistracy\2-nd semestr\MagistASPNetCoreApplication\bin\Debug\net8.0\PraktASPApp.dll
+Z:\Users\danila\DevProjects\VisualStudioProjects\Magistracy\2-nd semestr\MagistASPNetCoreApplication\bin\Debug\net8.0\PraktASPApp.pdb
+Z:\Users\danila\DevProjects\VisualStudioProjects\Magistracy\2-nd semestr\MagistASPNetCoreApplication\bin\Debug\net8.0\Humanizer.dll
+Z:\Users\danila\DevProjects\VisualStudioProjects\Magistracy\2-nd semestr\MagistASPNetCoreApplication\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+Z:\Users\danila\DevProjects\VisualStudioProjects\Magistracy\2-nd semestr\MagistASPNetCoreApplication\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+Z:\Users\danila\DevProjects\VisualStudioProjects\Magistracy\2-nd semestr\MagistASPNetCoreApplication\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+Z:\Users\danila\DevProjects\VisualStudioProjects\Magistracy\2-nd semestr\MagistASPNetCoreApplication\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+Z:\Users\danila\DevProjects\VisualStudioProjects\Magistracy\2-nd semestr\MagistASPNetCoreApplication\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+Z:\Users\danila\DevProjects\VisualStudioProjects\Magistracy\2-nd semestr\MagistASPNetCoreApplication\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+Z:\Users\danila\DevProjects\VisualStudioProjects\Magistracy\2-nd semestr\MagistASPNetCoreApplication\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+Z:\Users\danila\DevProjects\VisualStudioProjects\Magistracy\2-nd semestr\MagistASPNetCoreApplication\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+Z:\Users\danila\DevProjects\VisualStudioProjects\Magistracy\2-nd semestr\MagistASPNetCoreApplication\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+Z:\Users\danila\DevProjects\VisualStudioProjects\Magistracy\2-nd semestr\MagistASPNetCoreApplication\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+Z:\Users\danila\DevProjects\VisualStudioProjects\Magistracy\2-nd semestr\MagistASPNetCoreApplication\bin\Debug\net8.0\Mono.TextTemplating.dll
+Z:\Users\danila\DevProjects\VisualStudioProjects\Magistracy\2-nd semestr\MagistASPNetCoreApplication\bin\Debug\net8.0\Npgsql.dll
+Z:\Users\danila\DevProjects\VisualStudioProjects\Magistracy\2-nd semestr\MagistASPNetCoreApplication\bin\Debug\net8.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+Z:\Users\danila\DevProjects\VisualStudioProjects\Magistracy\2-nd semestr\MagistASPNetCoreApplication\bin\Debug\net8.0\System.CodeDom.dll
+Z:\Users\danila\DevProjects\VisualStudioProjects\Magistracy\2-nd semestr\MagistASPNetCoreApplication\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+Z:\Users\danila\DevProjects\VisualStudioProjects\Magistracy\2-nd semestr\MagistASPNetCoreApplication\bin\Debug\net8.0\System.Composition.Convention.dll
+Z:\Users\danila\DevProjects\VisualStudioProjects\Magistracy\2-nd semestr\MagistASPNetCoreApplication\bin\Debug\net8.0\System.Composition.Hosting.dll
+Z:\Users\danila\DevProjects\VisualStudioProjects\Magistracy\2-nd semestr\MagistASPNetCoreApplication\bin\Debug\net8.0\System.Composition.Runtime.dll
+Z:\Users\danila\DevProjects\VisualStudioProjects\Magistracy\2-nd semestr\MagistASPNetCoreApplication\bin\Debug\net8.0\System.Composition.TypedParts.dll
+Z:\Users\danila\DevProjects\VisualStudioProjects\Magistracy\2-nd semestr\MagistASPNetCoreApplication\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+Z:\Users\danila\DevProjects\VisualStudioProjects\Magistracy\2-nd semestr\MagistASPNetCoreApplication\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+Z:\Users\danila\DevProjects\VisualStudioProjects\Magistracy\2-nd semestr\MagistASPNetCoreApplication\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+Z:\Users\danila\DevProjects\VisualStudioProjects\Magistracy\2-nd semestr\MagistASPNetCoreApplication\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+Z:\Users\danila\DevProjects\VisualStudioProjects\Magistracy\2-nd semestr\MagistASPNetCoreApplication\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+Z:\Users\danila\DevProjects\VisualStudioProjects\Magistracy\2-nd semestr\MagistASPNetCoreApplication\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+Z:\Users\danila\DevProjects\VisualStudioProjects\Magistracy\2-nd semestr\MagistASPNetCoreApplication\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+Z:\Users\danila\DevProjects\VisualStudioProjects\Magistracy\2-nd semestr\MagistASPNetCoreApplication\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+Z:\Users\danila\DevProjects\VisualStudioProjects\Magistracy\2-nd semestr\MagistASPNetCoreApplication\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+Z:\Users\danila\DevProjects\VisualStudioProjects\Magistracy\2-nd semestr\MagistASPNetCoreApplication\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+Z:\Users\danila\DevProjects\VisualStudioProjects\Magistracy\2-nd semestr\MagistASPNetCoreApplication\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+Z:\Users\danila\DevProjects\VisualStudioProjects\Magistracy\2-nd semestr\MagistASPNetCoreApplication\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+Z:\Users\danila\DevProjects\VisualStudioProjects\Magistracy\2-nd semestr\MagistASPNetCoreApplication\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+Z:\Users\danila\DevProjects\VisualStudioProjects\Magistracy\2-nd semestr\MagistASPNetCoreApplication\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+Z:\Users\danila\DevProjects\VisualStudioProjects\Magistracy\2-nd semestr\MagistASPNetCoreApplication\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+Z:\Users\danila\DevProjects\VisualStudioProjects\Magistracy\2-nd semestr\MagistASPNetCoreApplication\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+Z:\Users\danila\DevProjects\VisualStudioProjects\Magistracy\2-nd semestr\MagistASPNetCoreApplication\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+Z:\Users\danila\DevProjects\VisualStudioProjects\Magistracy\2-nd semestr\MagistASPNetCoreApplication\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+Z:\Users\danila\DevProjects\VisualStudioProjects\Magistracy\2-nd semestr\MagistASPNetCoreApplication\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+Z:\Users\danila\DevProjects\VisualStudioProjects\Magistracy\2-nd semestr\MagistASPNetCoreApplication\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+Z:\Users\danila\DevProjects\VisualStudioProjects\Magistracy\2-nd semestr\MagistASPNetCoreApplication\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+Z:\Users\danila\DevProjects\VisualStudioProjects\Magistracy\2-nd semestr\MagistASPNetCoreApplication\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+Z:\Users\danila\DevProjects\VisualStudioProjects\Magistracy\2-nd semestr\MagistASPNetCoreApplication\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+Z:\Users\danila\DevProjects\VisualStudioProjects\Magistracy\2-nd semestr\MagistASPNetCoreApplication\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+Z:\Users\danila\DevProjects\VisualStudioProjects\Magistracy\2-nd semestr\MagistASPNetCoreApplication\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+Z:\Users\danila\DevProjects\VisualStudioProjects\Magistracy\2-nd semestr\MagistASPNetCoreApplication\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+Z:\Users\danila\DevProjects\VisualStudioProjects\Magistracy\2-nd semestr\MagistASPNetCoreApplication\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+Z:\Users\danila\DevProjects\VisualStudioProjects\Magistracy\2-nd semestr\MagistASPNetCoreApplication\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+Z:\Users\danila\DevProjects\VisualStudioProjects\Magistracy\2-nd semestr\MagistASPNetCoreApplication\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+Z:\Users\danila\DevProjects\VisualStudioProjects\Magistracy\2-nd semestr\MagistASPNetCoreApplication\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+Z:\Users\danila\DevProjects\VisualStudioProjects\Magistracy\2-nd semestr\MagistASPNetCoreApplication\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+Z:\Users\danila\DevProjects\VisualStudioProjects\Magistracy\2-nd semestr\MagistASPNetCoreApplication\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+Z:\Users\danila\DevProjects\VisualStudioProjects\Magistracy\2-nd semestr\MagistASPNetCoreApplication\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+Z:\Users\danila\DevProjects\VisualStudioProjects\Magistracy\2-nd semestr\MagistASPNetCoreApplication\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+Z:\Users\danila\DevProjects\VisualStudioProjects\Magistracy\2-nd semestr\MagistASPNetCoreApplication\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+Z:\Users\danila\DevProjects\VisualStudioProjects\Magistracy\2-nd semestr\MagistASPNetCoreApplication\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+Z:\Users\danila\DevProjects\VisualStudioProjects\Magistracy\2-nd semestr\MagistASPNetCoreApplication\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+Z:\Users\danila\DevProjects\VisualStudioProjects\Magistracy\2-nd semestr\MagistASPNetCoreApplication\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+Z:\Users\danila\DevProjects\VisualStudioProjects\Magistracy\2-nd semestr\MagistASPNetCoreApplication\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+Z:\Users\danila\DevProjects\VisualStudioProjects\Magistracy\2-nd semestr\MagistASPNetCoreApplication\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+Z:\Users\danila\DevProjects\VisualStudioProjects\Magistracy\2-nd semestr\MagistASPNetCoreApplication\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+Z:\Users\danila\DevProjects\VisualStudioProjects\Magistracy\2-nd semestr\MagistASPNetCoreApplication\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+Z:\Users\danila\DevProjects\VisualStudioProjects\Magistracy\2-nd semestr\MagistASPNetCoreApplication\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+Z:\Users\danila\DevProjects\VisualStudioProjects\Magistracy\2-nd semestr\MagistASPNetCoreApplication\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+Z:\Users\danila\DevProjects\VisualStudioProjects\Magistracy\2-nd semestr\MagistASPNetCoreApplication\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+Z:\Users\danila\DevProjects\VisualStudioProjects\Magistracy\2-nd semestr\MagistASPNetCoreApplication\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+Z:\Users\danila\DevProjects\VisualStudioProjects\Magistracy\2-nd semestr\MagistASPNetCoreApplication\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+Z:\Users\danila\DevProjects\VisualStudioProjects\Magistracy\2-nd semestr\MagistASPNetCoreApplication\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+Z:\Users\danila\DevProjects\VisualStudioProjects\Magistracy\2-nd semestr\MagistASPNetCoreApplication\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+Z:\Users\danila\DevProjects\VisualStudioProjects\Magistracy\2-nd semestr\MagistASPNetCoreApplication\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+Z:\Users\danila\DevProjects\VisualStudioProjects\Magistracy\2-nd semestr\MagistASPNetCoreApplication\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+Z:\Users\danila\DevProjects\VisualStudioProjects\Magistracy\2-nd semestr\MagistASPNetCoreApplication\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+Z:\Users\danila\DevProjects\VisualStudioProjects\Magistracy\2-nd semestr\MagistASPNetCoreApplication\obj\Debug\net8.0\PraktASPApp.csproj.AssemblyReference.cache
+Z:\Users\danila\DevProjects\VisualStudioProjects\Magistracy\2-nd semestr\MagistASPNetCoreApplication\obj\Debug\net8.0\PraktASPApp.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Users\danila\DevProjects\VisualStudioProjects\Magistracy\2-nd semestr\MagistASPNetCoreApplication\obj\Debug\net8.0\PraktASPApp.AssemblyInfoInputs.cache
+Z:\Users\danila\DevProjects\VisualStudioProjects\Magistracy\2-nd semestr\MagistASPNetCoreApplication\obj\Debug\net8.0\PraktASPApp.AssemblyInfo.cs
+Z:\Users\danila\DevProjects\VisualStudioProjects\Magistracy\2-nd semestr\MagistASPNetCoreApplication\obj\Debug\net8.0\PraktASPApp.csproj.CoreCompileInputs.cache
+Z:\Users\danila\DevProjects\VisualStudioProjects\Magistracy\2-nd semestr\MagistASPNetCoreApplication\obj\Debug\net8.0\PraktASPApp.MvcApplicationPartsAssemblyInfo.cache
+Z:\Users\danila\DevProjects\VisualStudioProjects\Magistracy\2-nd semestr\MagistASPNetCoreApplication\obj\Debug\net8.0\PraktASPApp.RazorAssemblyInfo.cache
+Z:\Users\danila\DevProjects\VisualStudioProjects\Magistracy\2-nd semestr\MagistASPNetCoreApplication\obj\Debug\net8.0\PraktASPApp.RazorAssemblyInfo.cs
+Z:\Users\danila\DevProjects\VisualStudioProjects\Magistracy\2-nd semestr\MagistASPNetCoreApplication\obj\Debug\net8.0\PraktASPApp.sourcelink.json
+Z:\Users\danila\DevProjects\VisualStudioProjects\Magistracy\2-nd semestr\MagistASPNetCoreApplication\obj\Debug\net8.0\staticwebassets.build.json
+Z:\Users\danila\DevProjects\VisualStudioProjects\Magistracy\2-nd semestr\MagistASPNetCoreApplication\obj\Debug\net8.0\staticwebassets.development.json
+Z:\Users\danila\DevProjects\VisualStudioProjects\Magistracy\2-nd semestr\MagistASPNetCoreApplication\obj\Debug\net8.0\staticwebassets\msbuild.PraktASPApp.Microsoft.AspNetCore.StaticWebAssets.props
+Z:\Users\danila\DevProjects\VisualStudioProjects\Magistracy\2-nd semestr\MagistASPNetCoreApplication\obj\Debug\net8.0\staticwebassets\msbuild.build.PraktASPApp.props
+Z:\Users\danila\DevProjects\VisualStudioProjects\Magistracy\2-nd semestr\MagistASPNetCoreApplication\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.PraktASPApp.props
+Z:\Users\danila\DevProjects\VisualStudioProjects\Magistracy\2-nd semestr\MagistASPNetCoreApplication\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.PraktASPApp.props
+Z:\Users\danila\DevProjects\VisualStudioProjects\Magistracy\2-nd semestr\MagistASPNetCoreApplication\obj\Debug\net8.0\staticwebassets.pack.json
+Z:\Users\danila\DevProjects\VisualStudioProjects\Magistracy\2-nd semestr\MagistASPNetCoreApplication\obj\Debug\net8.0\scopedcss\bundle\PraktASPApp.styles.css
+Z:\Users\danila\DevProjects\VisualStudioProjects\Magistracy\2-nd semestr\MagistASPNetCoreApplication\obj\Debug\net8.0\PraktASP.7BD7A2A0.Up2Date
+Z:\Users\danila\DevProjects\VisualStudioProjects\Magistracy\2-nd semestr\MagistASPNetCoreApplication\obj\Debug\net8.0\PraktASPApp.dll
+Z:\Users\danila\DevProjects\VisualStudioProjects\Magistracy\2-nd semestr\MagistASPNetCoreApplication\obj\Debug\net8.0\refint\PraktASPApp.dll
+Z:\Users\danila\DevProjects\VisualStudioProjects\Magistracy\2-nd semestr\MagistASPNetCoreApplication\obj\Debug\net8.0\PraktASPApp.pdb
+Z:\Users\danila\DevProjects\VisualStudioProjects\Magistracy\2-nd semestr\MagistASPNetCoreApplication\obj\Debug\net8.0\PraktASPApp.genruntimeconfig.cache
+Z:\Users\danila\DevProjects\VisualStudioProjects\Magistracy\2-nd semestr\MagistASPNetCoreApplication\obj\Debug\net8.0\ref\PraktASPApp.dll
